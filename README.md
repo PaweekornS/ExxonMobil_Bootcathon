@@ -1,7 +1,6 @@
-# ExxonMobil
-- LittleIndian team
-Paweekorn Soratyathorn
-Phakawat Rattanasopa
-Pathiti Boonprom
-Tinthai Bootseeta
+# LittleIndian team
+Paweekorn Soratyathorn\
+Phakawat Rattanasopa\
+Pathiti Boonprom\
+Tinthai Bootseeta\
 Pichawat Adulwittayakorn
