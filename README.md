@@ -5,7 +5,10 @@ Pathiti Boonprom\
 Tinthai Bootseeta\
 Pichawat Adulwittayakorn
 
-## Analytics Solution
+## Problem: how might we grow Mobil lubes business without Esso retail station network?
 
-## ML Solution
+**Analytics Solution**
+
+**ML Solution**
 - Random Forest: Churn Prediction
+- K-Means Clustering: Customer Segmentation
